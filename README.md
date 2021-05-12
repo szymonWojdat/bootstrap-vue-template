@@ -1,4 +1,9 @@
-# flight-terminal
+# Bootstrap-Vue Template
+
+This is a simple template for projects using
+bootstrap-vue + sass. It's got all the redundant
+stuff removed and proper dependencies sorted out.
+It uses sass for styling (see `src/assets/_custom.scss`).
 
 ## Project setup
 ```
@@ -19,6 +24,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
